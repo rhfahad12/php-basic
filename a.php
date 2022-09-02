@@ -1,2 +1,2 @@
 <?php
-$a= 'Value from a php file';
+$a= 'Value from a php file and github run';
